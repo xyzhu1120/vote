@@ -1,5 +1,8 @@
 <?php
 App::uses('AppModel','Model');
-class Candidate entends AppModel{
-
+class Candidate extends AppModel{
+	public $name= 'Candidate';
+	public function test(){
+		$this->set('can','can');
+	}
 }
