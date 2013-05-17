@@ -26,15 +26,3 @@ CREATE TABLE voters (
 
 INSERT INTO candidates (name, gender, created)
 	VALUES ('test',0,NOW());
-INSERT INTO candidates (name, gender, created)
-	VALUES ('test',0,NOW());
-INSERT INTO candidates (name, gender, created)
-	VALUES ('test',0,NOW());
-INSERT INTO candidates (name, gender, created)
-	VALUES ('test',0,NOW());
-INSERT INTO candidates (name, gender, created)
-	VALUES ('test',0,NOW());
-INSERT INTO candidates (name, gender, created)
-	VALUES ('test',0,NOW());
-INSERT INTO candidates (name, gender, created)
-	VALUES ('test',0,NOW());
